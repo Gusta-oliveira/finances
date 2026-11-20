@@ -1,0 +1,17 @@
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Infra.deps.json
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Infra.runtimeconfig.json
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Infra.dll
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Infra.pdb
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Domain.dll
+C:\Programação\Financas\Financas.Infra\bin\Debug\net10.0\Financas.Domain.pdb
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.csproj.AssemblyReference.cache
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.AssemblyInfoInputs.cache
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.AssemblyInfo.cs
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.csproj.CoreCompileInputs.cache
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.02736D0D.Up2Date
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.dll
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\refint\Financas.Infra.dll
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.pdb
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\Financas.Infra.genruntimeconfig.cache
+C:\Programação\Financas\Financas.Infra\obj\Debug\net10.0\ref\Financas.Infra.dll

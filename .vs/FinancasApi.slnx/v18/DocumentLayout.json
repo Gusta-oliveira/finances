@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programa\u00E7\u00E3o\\Financas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56B097BB-FF23-22B3-D4A2-F93EA32389BE}|Financas.Tests\\Finance.Tests.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.tests\\backupcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56B097BB-FF23-22B3-D4A2-F93EA32389BE}|Financas.Tests\\Finance.Tests.csproj|solutionrelative:financas.tests\\backupcalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\services\\backupcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\services\\backupcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56B097BB-FF23-22B3-D4A2-F93EA32389BE}|Financas.Tests\\Finance.Tests.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.tests\\finance.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{56B097BB-FF23-22B3-D4A2-F93EA32389BE}|Financas.Tests\\Finance.Tests.csproj|solutionrelative:financas.tests\\finance.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\services\\monthlysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\services\\monthlysummary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\entities\\reservegoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\entities\\reservegoal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\entities\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\entities\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\enums\\typeexpansesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\enums\\typeexpansesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\entities\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\entities\\reserve.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|c:\\programa\u00E7\u00E3o\\financas\\financas.domain\\finance.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D518B1E-A0E2-57BF-0309-E139661D91B9}|Financas.Domain\\Finance.Domain.csproj|solutionrelative:financas.domain\\finance.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackupCalculator.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Services\\BackupCalculator.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Services\\BackupCalculator.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Services\\BackupCalculator.cs",
+              "RelativeToolTip": "Financas.Domain\\Services\\BackupCalculator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA4wCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:41:52.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackupCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Tests\\BackupCalculatorTests.cs",
+              "RelativeDocumentMoniker": "Financas.Tests\\BackupCalculatorTests.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Tests\\BackupCalculatorTests.cs",
+              "RelativeToolTip": "Financas.Tests\\BackupCalculatorTests.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAA2wDsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T07:31:16.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Finance.Tests.csproj",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Tests\\Finance.Tests.csproj",
+              "RelativeDocumentMoniker": "Financas.Tests\\Finance.Tests.csproj",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Tests\\Finance.Tests.csproj",
+              "RelativeToolTip": "Financas.Tests\\Finance.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T07:25:29.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonthlySummary.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Services\\MonthlySummary.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Services\\MonthlySummary.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Services\\MonthlySummary.cs",
+              "RelativeToolTip": "Financas.Domain\\Services\\MonthlySummary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:39:27.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Expense.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Expense.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Entities\\Expense.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Expense.cs",
+              "RelativeToolTip": "Financas.Domain\\Entities\\Expense.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:16:27.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReserveGoal.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\ReserveGoal.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Entities\\ReserveGoal.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\ReserveGoal.cs",
+              "RelativeToolTip": "Financas.Domain\\Entities\\ReserveGoal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:16:44.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Income.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Income.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Entities\\Income.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Income.cs",
+              "RelativeToolTip": "Financas.Domain\\Entities\\Income.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:16:07.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TypeExpansesEnum.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Enums\\TypeExpansesEnum.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Enums\\TypeExpansesEnum.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Enums\\TypeExpansesEnum.cs",
+              "RelativeToolTip": "Financas.Domain\\Enums\\TypeExpansesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T06:09:41.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reserve.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Reserve.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Entities\\Reserve.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Reserve.cs",
+              "RelativeToolTip": "Financas.Domain\\Entities\\Reserve.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:16:57.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Financas.Domain\\Entities\\Users.cs",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Entities\\Users.cs",
+              "RelativeToolTip": "Financas.Domain\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T05:15:39.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Finance.Domain.csproj",
+              "DocumentMoniker": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Finance.Domain.csproj",
+              "RelativeDocumentMoniker": "Financas.Domain\\Finance.Domain.csproj",
+              "ToolTip": "C:\\Programa\u00E7\u00E3o\\Financas\\Financas.Domain\\Finance.Domain.csproj",
+              "RelativeToolTip": "Financas.Domain\\Finance.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-11-04T05:15:11.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
